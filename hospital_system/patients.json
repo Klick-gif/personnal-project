@@ -1,0 +1,1 @@
+[{"patient_id": "P001", "name": "yi", "doctor_id": "D001", "diagnosis": "\u65b0\u51a0", "prescription": [{"drug_name": "\u677f\u84dd\u6839", "quantity": 3}, {"drug_name": "\u83b2\u82b1\u6e05\u6e29", "quantity": 2}], "statement": "history"}]
